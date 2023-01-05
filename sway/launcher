@@ -1,0 +1,2 @@
+#!/bin/bash
+dmenu_run -b -fn "Iosevka Nerd Font" -nb "#2e3440" -nf "#eceff4" -sb "#5e81ac" -sf "#eceff4" 
